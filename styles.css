@@ -1,0 +1,25 @@
+td{
+    text-align: center;
+    font-style: italic;
+    color:dimgray;
+}
+
+table{
+    border-collapse: collapse;
+    border-width: 1xp;
+    border-style: inherit;
+    border-color: cadetblue;
+}
+
+th{
+    font-weight: 800;
+    font-family: Helvetica, sans-serif;
+    background-color: cadetblue;
+    color: #ffffff;
+    text-align: center;
+}
+
+h3{
+    font-family: Helvetica, sans-serif;
+    color:darkslategray;
+}
